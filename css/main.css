@@ -228,7 +228,7 @@
 }
 
 .slider-img {
-  background-image: url(../../img/slider-background.png);
+  background-image: url(../img/slider-background.png);
   width: 100%;
   height: 80vh;
 }
@@ -1162,6 +1162,7 @@
 }
 
 .bg-wrapper {
+  width: 100%;
   margin-top: -110px;
 }
 
@@ -1216,7 +1217,7 @@
   width: 100%;
   height: 100%;
   display: block;
-  background-image: url(../../img/lions.png);
+  background-image: url(../img/lions.png);
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-filter: brightness(0.7);
@@ -1279,7 +1280,7 @@
   width: 100%;
   height: 100%;
   display: block;
-  background-image: url(../../img/revived.png);
+  background-image: url(../img/revived.png);
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-filter: brightness(0.7);
